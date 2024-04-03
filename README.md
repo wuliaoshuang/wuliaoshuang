@@ -1,17 +1,17 @@
 ### Hey 👋🏽, I'm [ShuangShuang!](https://wldss.cn) 
 
 <div>
-  <a href="https://twitter.com/geeky_abhiz">
+  <a href="https://x.com/WldssYa">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-   <a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" />
+   <a href="https://qm.qq.com/q/vWJn530AGQ">
+  <img align="left" alt="Abhishek Naidu | QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" />
 </a>
    <a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />
+  <img align="left" alt="Abhishek Naidu | Weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />
 </a>
    <a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
+  <img align="left" alt="Abhishek Naidu | BiliBili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
 </a>
 </div>
 <br />
