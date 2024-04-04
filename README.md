@@ -21,9 +21,8 @@
 <p>I am currently：</p>
 <ul>
   <li>
-    ✨ Currently learning Flutter
-    ![1D6E64A0]
-
+    💖 Currently learning Flutter.
+    🎓️ I'm thinking about my graduation project.
   </li>
 </ul>
 <!---
