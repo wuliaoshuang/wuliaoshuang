@@ -22,6 +22,8 @@
 <ul>
   <li>
     💖 Currently learning Flutter.
+  </li>
+  <li>
     🎓️ I'm thinking about my graduation project.
   </li>
 </ul>
