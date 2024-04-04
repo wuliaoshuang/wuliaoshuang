@@ -21,7 +21,9 @@
 <p>I am currently：</p>
 <ul>
   <li>
-    ✨Currently learning Flutter
+    ✨ Currently learning Flutter
+    ![1D6E64A0]
+
   </li>
 </ul>
 <!---
