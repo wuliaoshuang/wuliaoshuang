@@ -17,11 +17,11 @@
 <br />
 <br />
 
-Hi everyone, I am a front-end developer from China and I am very happy to meet you at the world's largest gay dating site.
-I am currently：
+<p>Hi everyone, I am a front-end developer from China and I am very happy to meet you at the world's largest gay dating site.</p>
+<p>I am currently：</p>
 <ul>
   <li>
-    ✨
+    ✨Currently learning Flutter
   </li>
 </ul>
 <!---
