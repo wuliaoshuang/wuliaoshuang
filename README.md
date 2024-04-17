@@ -43,3 +43,5 @@ You can click the Preview link to take a look at your changes.
 
 ### My Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=wuliaoshuang&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wuliaoshuang "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
