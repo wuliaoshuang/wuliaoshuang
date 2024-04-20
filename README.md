@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 ### My Github Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliaoshuang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliaoshuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliaoshuang&count_private=true)
